@@ -14,9 +14,13 @@
 }
 
 .toast.one {
+  bottom: -140px;
+  opacity: 0;
   background: linear-gradient(135deg, #00cec9, #0984e3);
 }
 
 .toast.two {
+  bottom: -140px;
+  opacity: 0;
   background: linear-gradient(135deg, #ff7675, #fd79a8);
 }
